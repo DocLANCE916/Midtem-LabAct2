@@ -1,7 +1,7 @@
 # Secure Dynamic Task Manager
 
 ## Student Information
-- **Name:** Louis Anthony L. De Vera
+- **Name:** Dela Cuadra Lance Daniel G.
 - **Year, Course & Block:** 3rd Year, BSIT, Block 8
 - **Subject:** ITP10 | Event-Driven Programming
 - **Date:** October 2, 2026
